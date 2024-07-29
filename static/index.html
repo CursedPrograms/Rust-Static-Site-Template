@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Rust WebAssembly Example</title>
+</head>
+<body>
+    <h1>Rust and WebAssembly Example</h1>
+    <button id="greet-button">Greet</button>
+    <p id="greeting"></p>
+
+    <script type="module">
+        import init, { greet } from './pkg/rust_wasm_example.js';
+
+        async function run() {
+            await init();
+
+            document.getElementById('greet-button').addEventListener('click', () => {
+                const name = prompt("Enter your name:");
+                const greeting = greet(name);
+                document.getElementById('greeting').innerText = greeting;
+            });
+        }
+
+        run();
+    </script>
+</body>
+</html>
