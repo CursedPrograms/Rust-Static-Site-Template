@@ -20,3 +20,9 @@ A template for creating a static site using Rust and the `warp` framework.
    ```bash
    git clone https://github.com/your-username/Rust-Static-Site-Template.git
    cd Rust-Static-Site-Template
+'''
+
+<a href="https://cursed-entertainment.itch.io/" target="_blank">
+    <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
+        alt="CursedEntertainment Logo">
+</a>
