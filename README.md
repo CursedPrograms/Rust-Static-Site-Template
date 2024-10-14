@@ -1,3 +1,5 @@
+[![Twitter: @NorowaretaGemu](https://img.shields.io/badge/X-@NorowaretaGemu-blue.svg?style=flat)](https://x.com/NorowaretaGemu)
+  
   <br>
 <div align="center">
   <a href="https://ko-fi.com/cursedentertainment">
@@ -5,6 +7,13 @@
   </a>
 </div>
   <br>
+
+  <div align="center">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23323330.svg?&style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-%23323330.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="Batch" src="https://img.shields.io/badge/Batch-%23323330.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+  </div>
+<br>
 
 # Rust-Static-Site-Template
 
